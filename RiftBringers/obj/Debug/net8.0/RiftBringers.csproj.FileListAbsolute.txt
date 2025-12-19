@@ -1,0 +1,15 @@
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.AssemblyInfoInputs.cache
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.AssemblyInfo.cs
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.csproj.CoreCompileInputs.cache
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.sourcelink.json
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\bin\Debug\net8.0\RiftBringers.exe
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\bin\Debug\net8.0\RiftBringers.deps.json
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\bin\Debug\net8.0\RiftBringers.runtimeconfig.json
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\bin\Debug\net8.0\RiftBringers.dll
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\bin\Debug\net8.0\RiftBringers.pdb
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.dll
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\refint\RiftBringers.dll
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.pdb
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\RiftBringers.genruntimeconfig.cache
+C:\Лабораторные работы\2 курс\3 семестр\Курсовая работа\RiftBringers\RiftBringers\obj\Debug\net8.0\ref\RiftBringers.dll
